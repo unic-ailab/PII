@@ -15,7 +15,10 @@ The module can either hide PII or replace them with dummy values. Below are list
 - IP address: Masks last 6 digits | 127.0.0.1
 
 
-## Modes
+## Parameters 
+
+### Language
+Choose between English ('en') or Greek language ('el').
 
 ### Dummies mode (bool)
 Choose whether to replace the anonymized values with dummy values or to simply hide them.
