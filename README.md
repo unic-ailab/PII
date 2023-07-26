@@ -29,6 +29,7 @@ Opt to return an array in JSON format with the detected entities.
 
 ## Endpoint Example
 GET /anon/{lang}/{text}/{return_dummies}/{return_array}
+
 GET /anon/en/My name is John/False/True
 
 ## Example Outputs
